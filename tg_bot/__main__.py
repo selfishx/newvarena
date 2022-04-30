@@ -17,7 +17,9 @@ from tg_bot.modules import ALL_MODULES
 from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
-PM_START_TEXT = """ HEY THERE MY NAME IS VARENA ROBO. I AM A GROUP MANAGEMENT BOT PLZZ ADD ME IN YOUR GROUP
+PM_START_TEXT = """ HEY THERE MY NAME IS VARENA ROBO. I AM A GROUP MANAGEMENT BOT.
+https://te.legra.ph/file/c37aebd9429b45bdd7255.jpg
+
 
 ───────────────────
 × *I'ᴍ  Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*
